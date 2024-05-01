@@ -1,2 +1,2 @@
-# Course_certificates
+# Certificates
 A collection of all my course certificates
